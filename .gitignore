@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+<<<<<<< HEAD
 *.pdf
+=======
+
+>>>>>>> 2cbbca619633436842a7c12cc15f76f132815670
 # Distribution / packaging
 .Python
 build/
